@@ -1,6 +1,6 @@
 {
-  "name": "Adrian-MD",
-  "version": "1.1.0",
+  "nama" : "ZAKI-MD"
+  "versi" : "1.1.0" ,
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
   "type": "commonjs",
